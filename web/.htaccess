@@ -1,0 +1,6 @@
+AddDefaultCharset utf-8
+AddType 'text/html; charset=utf-8' .html .htm .shtml
+
+# use mod_rewrite for pretty URL support
+RewriteEngine on
+RewriteRule . index.php
