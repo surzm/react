@@ -1,0 +1,11 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  margin: auto;
+  padding: 0 25px;
+  width: 960px;
+}

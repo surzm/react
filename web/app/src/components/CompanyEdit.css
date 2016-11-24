@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+body
+{
+  font-family: sans-serif;
+  font-weight: 300;
+  background-color: #eaeaea;
+  font-size: 16px;
+}
+
+.container
+{
+  display: flex;
+}
+
+.company-form {
+  flex: 0 0 50%;
+}
+
+.company-form {
+  flex: 0 0 50%;
+}
+
+.company-menu
+{
+  flex: 1 0 auto;
+}
+
+.company-name
+{
+  margin: 0 0 1em;
+}
+
+ul
+{
+  list-style: none;
+  padding: 0;
+}
